@@ -1,0 +1,2 @@
+[Configuration]
+Path=F:\Website\Sourcecodester.com\Hotel Management System\Data\data.mdb
